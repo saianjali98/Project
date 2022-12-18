@@ -1,0 +1,3 @@
+npm install ajv axios ajv-errors async badwords-list bcrypt cheerio colors connect-mongodb-session cookie-parser countries-list  dotenv express express-handlebars express-rate-limit express-session feather-icons glob gulp-less got helmet html-entities i18n lodash lunr mime-db mime-type mkdirp moment mongodb mongodb-uri morgan  node-cron nodemailer numeral object-hash numeral paypal-rest-sdk rand-token rimrarf sanitize-html strip-bom stripe uglifycss xml-js yenv 
+
+npm i -D 

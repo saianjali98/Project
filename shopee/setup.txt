@@ -1,0 +1,28 @@
+1.Install dependencies 
+
+npm i ajv ajv-errors async axios badwords-list bcryptjs bitcore-lib bitcore-mnemonic cheerio coinbase-commerce-node coinqvest-merchant-sdk colors connect-mongodb-session cookie-parser countries-list csurf dotenv express express-handlebars express-rate-limit express-session feather-icons glob got gulp-less helmet html-entities i18n lodash lunr mime-db mime-type mkdirp moment mongodb mongodb-uri morgan multer node-cron nodemailer numeral object-hash paypal-rest-sdk rand-token rimraf sanitize-html sitemap string-strip-html strip-bom stripe uglifycss xml-js yenv
+npm i -D ava clean-css eslint eslint-config-standard eslint-plugin-extra-rules eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard globby less nodemon pm2 supertest uglify-es
+
+2.Run Application
+npm start
+
+3.Resources
+a.)To add test bitcoins to your address(account)
+https://coinfaucet.eu/en/btc-testnet/
+
+b.)To confirm bitcoins transaction using(transaction id) 
+https://blockstream.info/testnet/
+
+c.)Users
+-admin
+email:user@gmail
+password:user
+-client
+email:user2@gmail
+password:user2
+
+
+
+
+
+
