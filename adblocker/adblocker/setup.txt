@@ -1,0 +1,7 @@
+1. Go to chrome://extensions/
+2. Switch the 'developer mode' ON
+(Top Right corner)
+3. Click on 'Load Unpacked'
+4. Select the adblocker folder
+5. Go to 'Errors' and click 'Clear All'
+6. Make sure to turn ON the adblocker extension.
