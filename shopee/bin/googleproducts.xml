@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+    <channel>
+        <title>Shopee</title>
+        <description>Shopee</description>
+        <link>http://localhost:1111</link>
+        <item>
+            <g:title>Old School Converse</g:title>
+            <g:id>636bd819547e430ecc3aaf7e</g:id>
+            <g:link>http://localhost:1111/product/old-school-converse</g:link>
+            <g:description>&lt;p&gt;&lt;strong&gt;Lorem Ipsum&lt;/strong&gt;&lt;span&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;</g:description>
+            <g:price>12.99 USD</g:price>
+            <g:image_link>http://localhost:1111/\uploads\636bd819547e430ecc3aaf7e\converse.jpg</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:gtin>676756</g:gtin>
+        </item>
+        <item>
+            <g:title>Converse Women's Chuck Taylor Lift All Star High Top Sneakers</g:title>
+            <g:id>636bd988547e430ecc3aaf7f</g:id>
+            <g:link>http://localhost:1111/product/converse-women-s-chuck-taylor-lift-all-star-high-top-sneakers</g:link>
+            <g:description>&lt;p&gt;&lt;strong&gt;Lorem Ipsum&lt;/strong&gt;&lt;span&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;</g:description>
+            <g:price>22.99 USD</g:price>
+            <g:image_link>http://localhost:1111/\uploads\636bd988547e430ecc3aaf7f\1924707070m8_zm.jpg</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:gtin>676757</g:gtin>
+        </item>
+        <item>
+            <g:title>adidas Men's Grand Court Sneaker</g:title>
+            <g:id>636bed8c4007405e30ee6633</g:id>
+            <g:link>http://localhost:1111/product/adidas-men-s-grand-court-sneaker</g:link>
+            <g:description>L&lt;strong&gt;orem Ipsum&lt;/strong&gt;&lt;span&gt; is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum&lt;/span&gt;</g:description>
+            <g:price>33.00 USD</g:price>
+            <g:image_link>http://localhost:1111/\uploads\636bed8c4007405e30ee6633\Addidas.jpg</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:gtin>48974589754</g:gtin>
+        </item>
+        <item>
+            <g:title>white high top chuck taylor</g:title>
+            <g:id>637e4e95b7380c4fb0fb8727</g:id>
+            <g:link>http://localhost:1111/product/white-high-top-chuck-taylor</g:link>
+            <g:description>&lt;p&gt; lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem &lt;/p&gt;</g:description>
+            <g:price>32.00 USD</g:price>
+            <g:image_link>http://localhost:1111/\uploads\637e4e95b7380c4fb0fb8727\chuck-taylor-all-star-circa-1957.jpg</g:image_link>
+            <g:availability>in stock</g:availability>
+            <g:gtin>458745</g:gtin>
+        </item>
+    </channel>
+</rss>

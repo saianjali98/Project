@@ -1,0 +1,8 @@
+{
+    "description": "Crypto payment",
+    "apiKey": "Nn5jdIQ6gma3jdYfGa60z6KCN2pANQvoOMAv5nOcNis",
+    "hostUrl": "https://www.blockonomics.co",
+    "newAddressApi": "/api/new_address",
+    "priceApi": "/api/price?currency="
+}
+
